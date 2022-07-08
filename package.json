@@ -1,0 +1,24 @@
+{
+  "name": "hrproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.1.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jquery": "^3.6.0",
+    "jQuery": "^1.7.4",
+    "mongoose": "^6.4.0",
+    "react": "^18.2.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0"
+  }
+}
